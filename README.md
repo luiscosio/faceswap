@@ -156,30 +156,3 @@ Responsible for consolidating the converters, adding a lot of code to fix model 
 
 ## For haters
 Sorry, no time for that.
-
-# About github.com/deepfakes
-
-## What is this repo?
-It is a community repository for active users.
-
-## Why this repo?
-The joshua-wu repo seems not active. Simple bugs like missing _http://_ in front of urls have not been solved since days.
-
-## Why is it named 'deepfakes' if it is not /u/deepfakes?
- 1. Because a typosquat would have happened sooner or later as project grows
- 2. Because we wanted to recognize the original author
- 3. Because it will better federate contributors and users
-
-## What if /u/deepfakes feels bad about that?
-This is a friendly typosquat, and it is fully dedicated to the project. If /u/deepfakes wants to take over this repo/user and drive the project, he is welcomed to do so (Raise an issue, and he will be contacted on Reddit). Please do not send /u/deepfakes messages for help with the code you find here.
-
-# About machine learning
-
-## How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?
-It's complicated. Here's a good video that makes the process understandable:
-[![How Machines Learn](https://img.youtube.com/vi/R9OHn5ZF4Uo/0.jpg)](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
-
-Here's a slightly more in depth video that tries to explain the basic functioning of a neural network:
-[![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
-
-tl;dr: training data + trial and error
